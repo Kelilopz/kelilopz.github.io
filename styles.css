@@ -1,0 +1,29 @@
+body{
+    padding: 30px;
+}
+
+.texto{
+    display: flex;
+    gap: 30px;
+}
+
+.texto p{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+footer{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+footer button{
+    background-color: blue;
+    color: white;
+    width: 90px;
+    height: 30px;
+    font-size: 120%;
+
+    }
